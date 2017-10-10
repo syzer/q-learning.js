@@ -17,6 +17,14 @@ Demo
 
 [Example 2: game agent](http://nrox.github.io/q-learning.js/test2.html)
 
+to play it locally:
+
+open console and
+```js
+copy(learner.toJson())
+// or 
+learner = learner.fromJson(previouslySavedLearner)
+```
 
 Usage Example
 =======
